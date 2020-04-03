@@ -1,4 +1,31 @@
-Main skeleton of the framework was copied from previous project - CV
+UCMP - BOARD
+
+
+***UX***
+
+
+
+***FEATURES***
+
+**Existing FEATURES**
+
+**Future FEATURES**
+
+
+***TECHNOLOGIES USED***
+
+***TESTING***
+
+***DEPLOYMENT***
+
+***CREDITS***
+
+**Content**
+
+**Media**
+
+**Acknowledgements**
+
 
 Header used was taken from W3 Schools
 Bootstrap Navbar taken from W3 Schools

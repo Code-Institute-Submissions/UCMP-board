@@ -39,11 +39,82 @@
      background: #1dbab4;
 }
 
+.img-responsive{
+  height: 600px;
+  width: 100%;
+}
+
+#cover-text, #cover-text h2 {
+  color: #ffffff;
+}
+
+#cover-text {
+  font-size: 100%;
+  font-family: "Merriweather";
+  text-transform: uppercase;
+  letter-spacing: 4px;
+
+  width: 300px;
+  height: 250px;
+
+  padding-top: 40px;
+  padding-left: 10px;
+
+  background-color: #1c77ac;
+
+  bottom: 30px;
+  right: 150px;
+
+  position: absolute;
+
+}
+
+#feature-col {
+    background-color: #1c77ac;
+    color: #fafafa;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px;
+}
+
+#features {
+    background-color: #1c77ac;
+    color: #fafafa;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px;
+}
+
+#features i {
+    width: 64px;
+    height: 64px;
+    padding: 24px 0px;
+    border-radius: 50%;
+    font-size: 38px;
+    line-height: 14px;
+    text-align: center;
+    color: #fafafa;
+    background: #1561ad;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
 /* -------------------------------------About */
 
 #about {
     color: #1561ad;
     font-family: "Merriweather", sans-serif;
+     font-size: 500;
+     letter-spacing: 0.5px;
+     padding: 20px;
+}
+
+#about p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
 }
 
 #product {
@@ -51,6 +122,9 @@
     color: #fafafa;
     margin: 0;
     font-family: "Merriweather", sans-serif;
+    font-size: 300;
+    letter-spacing: 0.25px;
+    padding: 20px;
 }
 
 #product .container {
@@ -58,6 +132,9 @@
 }
 
 #product p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
     font-family: "Merriweather", sans-serif;
 }
 
@@ -66,6 +143,7 @@
     color: #fafafa;
     margin: 0;
     font-family: "Montserrat", sans-serif;
+    padding: 20px;
 }
 
 #values {
@@ -73,6 +151,7 @@
     color: #fafafa;
     margin: 0;
     font-family: "Montserrat", sans-serif;
+    padding: 20px;
 }
 
 #values i {

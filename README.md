@@ -1,4 +1,4 @@
-# H1 UCMP - BOARD
+# UCMP - BOARD
 
 A comprehensive website for a Education Board Meeting Software based in Ireland (but can be used globally). Website features a hero image, software features, an about page with samples of the product and a contact page. The primary goal of the website is to lead potential customers to making first contact with the seller via the contact page.
 
@@ -16,7 +16,7 @@ The customer goals of this website are:
 - Receive enough information to initiate contact (via the contact page).
 - Site should be easy to use a look professional.
 
-# H2 **UX**
+## **UX**
 
 **Ideal Client for the business:**
 
@@ -48,11 +48,11 @@ The customer goals of this website are:
 - About
 - Contact
 
-# H2 **FEATURES**
+## **FEATURES**
 
 Each page features an identical responsive navigation bar and footer. The navagation bar contains a conventional placing of logo (top left) and a highlighted "free demo" button in the top right. The footer contains About information, links to each page with "free demo" button and social media icons linking to 3 of the company's social media pages.
 
-# H5 Home
+##### Home
 
 The Home page features a special hero image and text box. The purpose of this hero image/text box is to give maximum impact on arriving at the website, and explain immediately what the site is selling (a professional software tool, specifically for education based board meetings).
 
@@ -62,7 +62,7 @@ After the special hero image is some further features of the product which reass
 
 Finally there is a simple call to action button in the footer guiding the user to the contact page in order to for them to initiate contact.
 
-# H5 About
+##### About
 
 The About page begins with a brief detail of the founders, their mission and the reason for their product. It provides enough detail to engage the user without overwhelming them.
 
@@ -70,13 +70,13 @@ The main section details out further information about the product and provides 
 
 At the bottom of the page (above the footer) are the values of the company. These short briefs are to engage to user with qualities the business has.
 
-# H5 Contact
+##### Contact
 
 The Contact page features a contact form, which requests client name and information request, and below that a box to leave a message with any further enquiry. 
 
 The bottom of the form contains a Submit Button
 
-# H3  **Existing FEATURES**
+###  **Existing FEATURES**
 
 - Header Logo - Identical on every page and allows users to easily recognise the business brand. Clicking the logo returns users to the home page as expected.
 - Header Navigation Bar - Identical on every page and allows users to easily navigate pages to find what they are looking for efficiently.
@@ -85,7 +85,7 @@ The bottom of the form contains a Submit Button
 - About Page - Allows potential clients to connect with the business without overloading them with information.
 - Contact Form - Allows potential clients to ask questions, and/or make the first step in their ordering process.
 
-# H3  **Future FEATURES**
+###  **Future FEATURES**
 
 - Video showing full product demo - this could be implemented immediately and provide further information to potential customers exactly what the product is and how it looks.
 
@@ -101,45 +101,45 @@ The bottom of the form contains a Submit Button
 
 
 
-# H2 **TECHNOLOGIES USED**
+## **TECHNOLOGIES USED**
 
 - This project uses HTML and CSS programming languages.
 - Gitpod - This developer used Gitpod for their IDE while building the website.
-- BootstrapCDN
+- BootstrapCDN:
 The project uses Bootstrap4 to simplify the structure of the website and make the website responsive.
 The project also uses BootstrapCDN to provide icons from FontAwesome
-- Google Fonts
+- Google Fonts:
 The project uses Google fonts to style the website fonts.
-- CloudflareCDN
+- CloudflareCDN:
 The project uses Cloudflare for the hover function on social media links and call to action buttons.
 - All external images are stored and linked from google images.
 
-# H2 **TESTING**
+## **TESTING**
 
-# H2 **DEPLOYMENT**
+## **DEPLOYMENT**
 
-# H2 **CREDITS**
+## **CREDITS**
 
-# H3 **Content**
+### **Content**
 
-The text for the Home page and About page was obtained from Boardable.com.
-The logo image was created by the developer using Logomakr.com
+- The text for the Home page and About page was obtained from Boardable.com.
+- The logo image was created by the developer using Logomakr.com
 
-# H3 **Media**
+### **Media**
 
-All the photos used in this site were obtained on google images.
-Home page hero-image was obtained from squarespace-cdn.com
-Content page image was obtained from dreamstime.com
-About page images were obtained from Boardable.com
+- All the photos used in this site were obtained on google images.
+- Home page hero-image was obtained from squarespace-cdn.com
+- Content page image was obtained from dreamstime.com
+- About page images were obtained from Boardable.com
 
-# H3 **Code**
+### **Code**
 
-Header/Navbar, and Contact form were taken from W3Schools and then edited.
-Footer was taken from previous code institute project (Resume) and then edited.
-Hero-image text bax was taken from previous code institute project (Love Running) and then edited.
+- Header/Navbar, and Contact form were taken from W3Schools and then edited.
+- Footer was taken from previous code institute project (Resume) and then edited.
+- Hero-image text bax was taken from previous code institute project (Love Running) and then edited.
 
 
-# H3 **Acknowledgements**
+### **Acknowledgements**
 
 I received inspiration for this project from Boardable.com
 

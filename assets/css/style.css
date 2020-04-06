@@ -39,14 +39,17 @@
      background: #1dbab4;
 }
 
-.img-responsive{
-  height: 600px;
-  width: 100%;
+#hero-image {
+ background-image: url("https://images.squarespace-cdn.com/content/v1/5e40a797e62a4b50541a9405/1581297110239-QE4ITKT1DMCV03FRV7PD/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/board-meeting-room.jpg");
+ background-repeat: no-repeat;
+ height: 600px;
+ background-size: cover;
 }
 
 #cover-text, #cover-text h2 {
   color: #ffffff;
 }
+
 
 #cover-text {
   font-size: 100%;
@@ -72,7 +75,6 @@
 #feature-col {
     background-color: #1c77ac;
     color: #fafafa;
-    margin: 0;
     font-family: "Montserrat", sans-serif;
     padding: 20px;
 }

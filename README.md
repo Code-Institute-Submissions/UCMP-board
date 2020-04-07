@@ -1,6 +1,6 @@
-# UCMP - BOARD
+# UCMP - BOARDCLASS
 
-A comprehensive website for a Education Board Meeting Software based in Ireland (but can be used globally). Website features a hero image, software features, an about page with samples of the product and a contact page. The primary goal of the website is to lead potential customers to making first contact with the seller via the contact page.
+A comprehensive website for an Education Board Meeting Software, based in Ireland (but can be used globally). Website features a hero image, software features, an about page with samples of the product and a contact page. The primary goal of the website is to lead potential customers to making first contact with the seller via the contact page.
 
 The business goals of this website are:
 
@@ -29,7 +29,7 @@ The customer goals of this website are:
 
 **This website is:**
 - Easy to navigate.
-- rovides the client with information they require without overloading them.
+- Provides the client with information they require without overloading them.
 - Guiding them to the goal of the website - to fill out the contact form.
  
 **Client stories:**
@@ -44,9 +44,9 @@ The customer goals of this website are:
 
 **Wireframe Mock-ups**
 
-- Home
-- About
-- Contact
+- [Home](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/Home.jpg)
+- [About](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/About.jpg)
+- [Contact](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/Contact.jpg)
 
 ## **FEATURES**
 

@@ -134,9 +134,9 @@ Further details on cloning a repository can be found on [GitHub](https://help.gi
 
 ### **Code**
 
-- Header/Navbar, and Contact form were taken from W3Schools and then edited.
+- Header/Navbar, and Contact form were taken from [W3Schools](https://www.w3schools.com/) and then edited.
 - Footer was taken from previous code institute project (Resume) and then edited.
-- Hero-image text bax was taken from previous code institute project (Love Running) and then edited.
+- Hero-image text box was taken from previous code institute project (Love Running) and then edited.
 
 
 ### **Acknowledgements**

@@ -35,26 +35,23 @@ The customer goals of this website are:
 **Client stories:**
 
 1. When I visit this website, I want to easily navigate the site, so I can find what I need efficiently.
-2. When I visit this website, I want to know if the software will meet my needs.
-3. When I visit this website, I want it to look professional.
-4. A potential client will want to see samples of the software available and descriptions of what it can do.
-5. An interested client will want an easy to fill in contact form, so they can make contact with the company and request further information or a free demo.
-6. An interested observer and/or potential client, will want to follow the company on social media, in order to keep up with their latest news or get further information.
-7. A returning visitor to the website, will want to use the contact page easily.
-
-**Wireframe Mock-ups**
-
-- [Home](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/Home.jpg)
-- [About](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/About.jpg)
-- [Contact](https://github.com/Verga1/UCMP-board/blob/master/assets/images/Wireframe/Contact.jpg)
+2. A potential client will want to see samples of the software available and descriptions of what it can do.
+3. An interested client will want an easy to fill in contact form, so they can make contact with the company and request further information or a free demo.
+4. An interested observer and/or potential client, will want to follow the company on social media, in order to keep up with their latest news or get further information.
+5. A returning visitor to the website, will want to use the contact page easily.
 
 ## **FEATURES**
 
 Each page features an identical responsive navigation bar and footer. The navagation bar contains a conventional placing of logo (top left) and a highlighted "free demo" button in the top right. The footer contains About information, links to each page with "free demo" button and social media icons linking to 3 of the company's social media pages.
 
+- Header Logo - Identical on every page and allows users to easily recognise the business brand. Clicking the logo returns users to the home page as expected.
+- Header Navigation Bar - Identical on every page and allows users to easily navigate pages to find what they are looking for efficiently.
+- Footer Social Icons - Identical on every page and allows users to access the social platforms of the business.
+- Call to Action Buttons - Exist on every page and guide potential clients to the contact page.
+
 ##### Home
 
-The Home page features a special hero image and text box. The purpose of this hero image/text box is to give maximum impact on arriving at the website, and explain immediately what the site is selling (a professional software tool, specifically for education based board meetings).
+The [Home page](https://github.com/Verga1/UCMP-board/blob/master/wireframe/home.jpg) features a special hero image and text box. The purpose of this hero image/text box is to give maximum impact on arriving at the website, and explain immediately what the site is selling (a professional software tool, specifically for education based board meetings).
 
 The Home page hero image is to show professionalism, while the text box explains exactly what product is on offer.
 
@@ -64,7 +61,7 @@ Finally there is a simple call to action button in the footer guiding the user t
 
 ##### About
 
-The About page begins with a brief detail of the founders, their mission and the reason for their product. It provides enough detail to engage the user without overwhelming them.
+The [About page](https://github.com/Verga1/UCMP-board/blob/master/wireframe/about.jpg) begins with a brief detail of the founders, their mission and the reason for their product. It provides enough detail to engage the user without overwhelming them.
 
 The main section details out further information about the product and provides screenshots of the software so the consumer can know what to expect.
 
@@ -72,34 +69,9 @@ At the bottom of the page (above the footer) are the values of the company. Thes
 
 ##### Contact
 
-The Contact page features a contact form, which requests client name and information request, and below that a box to leave a message with any further enquiry. 
+The [Contact page](https://github.com/Verga1/UCMP-board/blob/master/wireframe/contact.jpg) features a contact form, which requests client name and information request, and below that a box to leave a message with any further enquiry. 
 
 The bottom of the form contains a Submit Button
-
-###  **Existing FEATURES**
-
-- Header Logo - Identical on every page and allows users to easily recognise the business brand. Clicking the logo returns users to the home page as expected.
-- Header Navigation Bar - Identical on every page and allows users to easily navigate pages to find what they are looking for efficiently.
-- Footer Social Icons - Identical on every page and allows users to access the social platforms of the business.
-- Call to Action Buttons - Exist on every page and guide potential clients to the contact page.
-- About Page - Allows potential clients to connect with the business without overloading them with information.
-- Contact Form - Allows potential clients to ask questions, and/or make the first step in their ordering process.
-
-###  **Future FEATURES**
-
-- Video showing full product demo - this could be implemented immediately and provide further information to potential customers exactly what the product is and how it looks.
-
-- Individual feature pages - each feature of the software could have an Individual page including videos showing that specific software feature.
-
-- FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript required for dropdown functionality. Simple FAQ page could be implemented immediately.
-
-- Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript required
-
-- A product demo schedule to contact form - a calendar schedule could be included in the contact form page to provide potential clients with a demo from the company's product specialists.
-
-- Pricing page - to provide the customer with a clear indication of how  much the product costs.
-
-
 
 ## **TECHNOLOGIES USED**
 

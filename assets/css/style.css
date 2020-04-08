@@ -32,19 +32,24 @@
      background: #1dbab4;
 }
 
-#hero-image {
+#hero-outer {
+    height: 100%;
+    margin: 0;
+}
+
+.hero-image {
  background-image: url("https://images.squarespace-cdn.com/content/v1/5e40a797e62a4b50541a9405/1581297110239-QE4ITKT1DMCV03FRV7PD/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/board-meeting-room.jpg");
  background-repeat: no-repeat;
  height: 600px;
  background-size: cover;
 }
 
-#cover-text, #cover-text h2 {
+.hero-text, .hero-text h2 {
   color: #ffffff;
 }
 
 
-#cover-text {
+#hero-outer .hero-text {
   font-size: 100%;
   font-family: "Merriweather";
   text-transform: uppercase;
@@ -58,10 +63,10 @@
 
   background-color: #1c77ac;
 
-  bottom: 10%;
-  right: 30px;
-
   position: absolute;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%);
 
 }
 
@@ -177,7 +182,7 @@
   box-sizing: border-box;
 }
 
-/* Style inputs */
+/* inputs */
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -188,26 +193,14 @@ input[type=text], select, textarea {
 
 }
 
-input[type=submit] {
-  background-color: #1dbab4;
-  color: white;
-  padding: 12px 20px;
-  border: blue;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #1561ad;
-}
-
-/* Style the container/contact section */
+/* container/contact section */
 .container {
   border-radius: 5px;
   background-color: transparent;
   padding: 10px;
 }
 
-/* Create two columns that float next to eachother */
+/* columns */
 .column {
   float: left;
   width: 50%;
@@ -278,3 +271,4 @@ footer {
 #footer-details {
     padding: 20px;
 }
+

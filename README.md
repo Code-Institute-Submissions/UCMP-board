@@ -118,6 +118,34 @@ The project uses Cloudflare for the hover function on social media links and cal
 
 ## **DEPLOYMENT**
 
+This project was developed using the Gitpod IDE, committed to git and pushed to GitHub using the built in function within Gitpod.
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+1. Log into GitHub.
+2. In the list of repositories on the screen, select UCMP Board.
+3. In the menu items near the top of the page, select Settings.
+4. Scroll down to the GitHub Pages section.
+5. Under Source select the drop-down menu labelled None and select Master Branch
+6. The Master Branch automatically refreshes the page, the website has now been deployed.
+7. Scroll down to the GitHub Pages section in order to retrieve the link to the deployed website.
+
+
+
+### **Run the project locally**
+
+Clone this project from GitHub:
+
+1. Click for the [GitHub repository](https://github.com/Verga1/UCMP-board).
+2. Near the top of the page, click the green button "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository.
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+7. Press Enter. Your local clone will be created.
+
+Further details on cloning a repository can be found on [GitHub](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+
 ## **CREDITS**
 
 ### **Content**

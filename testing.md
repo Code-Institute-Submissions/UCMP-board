@@ -7,7 +7,9 @@
 ## **Testing**
 
 [W3C CSS validation](https://jigsaw.w3.org/css-validator/)
+
 [W3C Markup Validation](https://validator.w3.org/)
+
 - The developer used W3C CSS Validation Service and W3C Markup Validation Service to check the validity of the website code.
 
 ### **Client stories testing:**
@@ -15,7 +17,9 @@
 Most common path through the website:
 
 Home > About > Contact
+
 The headers and footers contain a flow of links for each page. They also contain a call to action button which guides the user to the Contact page.
+
 The About page is not necessarily part of the flow of the site for users, but it contains information about the business. The information is brief so as not to overload the user.
 
 
@@ -37,7 +41,7 @@ The About page is not necessarily part of the flow of the site for users, but it
 - 3 social media icons can be found in the footer on every page of the website.
 
 
-###**Manual (logical) testing of all elements and functionality on every page.**
+### **Manual (logical) testing of all elements and functionality on every page.**
 
 **Home Page:**
 
@@ -106,9 +110,11 @@ The About page is not necessarily part of the flow of the site for users, but it
 
 3. Footer:
 
-Footer code is identical on all html pages. Testing already completed.
-Review all functionality and responsiveness on mobile phone and tablet.
+- Footer code is identical on all html pages. Testing already completed.
+- Review all functionality and responsiveness on mobile phone and tablet.
 
-##**Further testing:**
+## **Further testing:**
+
 Verify pages in different browsers.
+
 Requested friends and family to look at the site on their devices and report any issues they found. No further issues found.

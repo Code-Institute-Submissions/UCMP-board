@@ -122,15 +122,15 @@ Further details on cloning a repository can be found on [GitHub](https://help.gi
 
 ### **Content**
 
-- The text for the Home page and About page was obtained from Boardable.com.
-- The logo image was created by the developer using Logomakr.com
+- The text for the Home page and About page was obtained from [Boardable.com](https://boardable.com/)
+- The logo image was created by the developer using [Logomakr.com](https://logomakr.com/)
 
 ### **Media**
 
 - All the photos used in this site were obtained on google images.
-- Home page hero-image was obtained from squarespace-cdn.com
-- Content page image was obtained from dreamstime.com
-- About page images were obtained from Boardable.com
+- Home page hero-image was obtained from [squarespace-cdn.com](https://images.squarespace-cdn.com/content/v1/5e40a797e62a4b50541a9405/1581297110239-QE4ITKT1DMCV03FRV7PD/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/board-meeting-room.jpg)
+- Content page image was obtained from [dreamstime.com](https://www.dreamstime.com/)
+- About page images were obtained from [Boardable.com](https://boardable.com/)
 
 ### **Code**
 
@@ -141,7 +141,7 @@ Further details on cloning a repository can be found on [GitHub](https://help.gi
 
 ### **Acknowledgements**
 
-I received inspiration for this project from Boardable.com
+I received inspiration for this project from [Boardable.com](https://boardable.com/)
 
 *Disclaimer*
 

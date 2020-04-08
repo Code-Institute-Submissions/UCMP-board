@@ -88,6 +88,8 @@ The project uses Cloudflare for the hover function on social media links and cal
 
 ## **TESTING**
 
+[Testing file](https://github.com/Verga1/UCMP-board/blob/master/testing.md)
+
 ## **DEPLOYMENT**
 
 This project was developed using the Gitpod IDE, committed to git and pushed to GitHub using the built in function within Gitpod.
